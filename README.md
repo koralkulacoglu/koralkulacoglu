@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a Software Engineer, I've worked at
+  I'm a <span style="color: blue;">Software Engineer</span>, I've worked at
 </h3>
 
 <p align="center">
