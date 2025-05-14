@@ -3,7 +3,7 @@
 </h1>
 
 <h3> 
-    I'm a Software Engineer student from the University of Waterloo.
+    I'm a Software Engineer student at the University of Waterloo.
 </h3>
 
-<img alt="contributions" src="https://raw.githubusercontent.com/kulacoglukoral/kulacoglukoral/output/github-contribution-grid-snake.svg" />
+<img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake.svg" />
