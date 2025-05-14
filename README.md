@@ -14,4 +14,4 @@ Here are my latest projects
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 5. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kulacoglukoral/kulacoglukoral/output/github-contribution-grid-snake.svg" />
