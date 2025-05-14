@@ -6,4 +6,4 @@
     I'm a Software Engineer student at the University of Waterloo.
 </h3>
 
-<img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake.svg" />
+<img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
