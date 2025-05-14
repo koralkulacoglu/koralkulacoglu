@@ -6,4 +6,4 @@
     I'm a Software Engineer student from the University of Waterloo.
 </h3>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kulacoglukoral/kulacoglukoral/output/github-contribution-grid-snake.svg" />
+<img alt="contributions" src="https://raw.githubusercontent.com/kulacoglukoral/kulacoglukoral/output/github-contribution-grid-snake.svg" />
