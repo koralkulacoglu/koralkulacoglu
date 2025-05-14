@@ -12,13 +12,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/D2L_Logo.png" alt="D2L Logo" height="40"/>
 </p>
 
-<h4>
-  My Interests:
-</h4>
+<p align="center">
+  <img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+<h3 align="center">
 📊 Data Science & ML  
 🖥️ Full-Stack Development  
 🔐 Cybersecurity  
 ⚔️ Competitive Programming  
-
-<img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
+</h3>
