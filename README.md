@@ -3,19 +3,22 @@
 </h1>
 
 <h3 align="center">
-  I'm a Software Engineering student at the University of Waterloo
+  I'm a Software Engineer, I've worked at
 </h3>
 
+<p align="center">
+  <img src="https://hydrodog.com/wp-content/uploads/2024/09/atob-logo.png" alt="AtoB Logo" height="40"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/D2L_Logo.png" alt="D2L Logo" height="40"/>
+</p>
+
 <h4>
-    I'm interested in:
+  My Interests:
 </h4>
 
-📊 Data Science & ML
-
-🖥️ Full-Stack Development
-
-🔐 Cybersecurity
-
-⚔️ Competitive Programming
+📊 Data Science & ML  
+🖥️ Full-Stack Development  
+🔐 Cybersecurity  
+⚔️ Competitive Programming  
 
 <img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
