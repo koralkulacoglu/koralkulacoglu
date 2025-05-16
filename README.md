@@ -3,6 +3,15 @@
 </h1>
 
 <h3 align="center">
+📊 Data Science & ML  
+🖥️ Full-Stack Development  
+🔐 Cybersecurity  
+⚔️ Competitive Programming  
+</h3>
+
+&nbsp;
+
+<h3 align="center">
   I'm a Software Engineer, I've worked at
 </h3>
 
@@ -15,10 +24,3 @@
 <p align="center">
   <img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<h3 align="center">
-📊 Data Science & ML  
-🖥️ Full-Stack Development  
-🔐 Cybersecurity  
-⚔️ Competitive Programming  
-</h3>
