@@ -7,9 +7,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://hydrodog.com/wp-content/uploads/2024/09/atob-logo.png" alt="AtoB Logo" height="40"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/D2L_Logo.png" alt="D2L Logo" height="40"/>
+  <img src="https://github.com/user-attachments/assets/48b4d195-a43f-4436-9e22-fd7ee9c0a9c1" alt="image" height="75"/>
+  <img src="https://github.com/user-attachments/assets/9a6c4d8a-961e-41e5-8b19-c3ea8e42b7d5" alt="image" height="75"/>
 </p>
 
 &nbsp;
