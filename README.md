@@ -15,7 +15,7 @@
 &nbsp;
 
 <h3 align="center">
-📊 Data Science  
+📊 Data Science & ML
 🖥️ Full-Stack Development  
 🔐 Cybersecurity  
 ⚔️ Competitive Programming  
