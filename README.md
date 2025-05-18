@@ -3,15 +3,6 @@
 </h1>
 
 <h3 align="center">
-📊 Data Science & ML  
-🖥️ Full-Stack Development  
-🔐 Cybersecurity  
-⚔️ Competitive Programming  
-</h3>
-
-&nbsp;
-
-<h3 align="center">
   I'm a Software Engineer, I've worked at
 </h3>
 
@@ -20,6 +11,15 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/D2L_Logo.png" alt="D2L Logo" height="40"/>
 </p>
+
+&nbsp;
+
+<h3 align="center">
+📊 Data Science  
+🖥️ Full-Stack Development  
+🔐 Cybersecurity  
+⚔️ Competitive Programming  
+</h3>
 
 <p align="center">
   <img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
