@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a $${\color{#cd00cf} Software \space Engineer}$$, I've worked at
+  I'm a $$\color{#cd00cf} Software \space Engineer$$, I've worked at
 </h3>
 
 <p align="center">
