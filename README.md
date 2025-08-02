@@ -10,10 +10,10 @@
 &nbsp;
 
 <h3 align="center">
-📊 Data Science & ML
-🖥️ Full-Stack Development  
-🔐 Cybersecurity  
-⚔️ Competitive Programming  
+🖥️ Full-Stack
+🤖 Data Science & ML
+🔐 Cybersecurity
+⚔️ Competitive Programming
 </h3>
 
 <p align="center">
