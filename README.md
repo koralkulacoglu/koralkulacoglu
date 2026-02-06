@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm interested in low-latency systems, fintech and competitive programming. You can find live demos of my projects at <a href="https://koralkulacoglu.com">koralkulacoglu.com</a>.
+  I'm interested in low-latency systems, fintech and competitive programming. My projects are live on <a href="https://koralkulacoglu.com">koralkulacoglu.com</a>.
 
   <img alt="contributions" src="https://raw.githubusercontent.com/koralkulacoglu/koralkulacoglu/output/github-contribution-grid-snake-dark.svg" />
 </p>
